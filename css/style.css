@@ -1,0 +1,30 @@
+/*link to google font*/
+@import url("https://fonts.googleapis.com/css?family=Quattrocento|Raleway|Roboto&display=swap");
+
+/*link to components*/
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+
+/*fonts and text*/
+
+body{
+	font-family: 'Quattrocento', serif;
+	font-size: 18px;
+	color: #3F3F3F; 
+	text-align: justify;
+}
+
+h1, h2, h3 {
+	font-family: 'Raleway', sans-serif;
+	font-weight: bold;
+	color: #508D24;
+}
+
+a {
+	text-decoration: none;
+}

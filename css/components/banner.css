@@ -1,0 +1,11 @@
+.banner {
+	background-image: url(../../images/background.jpg);
+	color: #508D24;
+	padding: 150px 0px;
+	background-size: cover;
+	background-position: center;
+}
+
+.banner h2{
+	color:rgba(20, 20, 20,0.3);
+}  
